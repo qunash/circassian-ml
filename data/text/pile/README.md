@@ -1,3 +1,3 @@
-# Raw Pile Data
+# Raw Data Pile
 
-Description about the raw pile datasets.
+A pile into which dirty data is collected before it is cleaned and sorted into categories.
