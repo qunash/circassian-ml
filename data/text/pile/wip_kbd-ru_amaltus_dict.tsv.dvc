@@ -1,0 +1,5 @@
+outs:
+- md5: f34bb629263f052e83f1deea1a025fa6
+  size: 3906816
+  hash: md5
+  path: wip_kbd-ru_amaltus_dict.tsv

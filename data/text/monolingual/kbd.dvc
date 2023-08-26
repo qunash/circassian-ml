@@ -1,0 +1,6 @@
+outs:
+- md5: 2ba7ff576dd88b88582ef2eb1eef2625.dir
+  size: 169800817
+  nfiles: 4
+  hash: md5
+  path: kbd
