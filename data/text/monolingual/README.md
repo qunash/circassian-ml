@@ -1,3 +1,3 @@
 # Monolingual Data
 
-Description about the monolingual datasets.
+Monolingual data in the following format: [language code].txt, e.g. kbd.txt, en.txt, etc.
