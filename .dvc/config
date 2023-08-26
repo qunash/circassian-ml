@@ -1,0 +1,4 @@
+[core]
+    remote = google-cloud
+['remote "google-cloud"']
+    url = gs://circassian-data
