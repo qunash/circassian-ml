@@ -1,0 +1,5 @@
+outs:
+- md5: a161e6589dbbbbc9774a835f03b90513
+  size: 1673
+  hash: md5
+  path: amaltus_cleaning.py
